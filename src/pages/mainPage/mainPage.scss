@@ -1,0 +1,13 @@
+.content{
+    width: 80%;
+    max-height: 95%;
+    margin: 0;
+    margin-top: 40px;
+
+    &__main{
+        max-height: 140vh;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+}
